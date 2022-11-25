@@ -1,0 +1,44 @@
+body{   
+    background: whitesmoke;  
+}  
+
+.logo{
+    color: #ff8400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 5px;  
+    margin: 90px auto;  
+    background: #fff;  
+    padding: 50px; 
+}  
+
+#frm h1{
+    text-align: center;
+    color: #ff8400;
+}
+
+#frm form{
+    text-align: center;
+    font-size: 22px;
+}
+form input{
+    border: 2px solid #ff8400;
+    width: 15rem;
+    height: 2.5rem;
+    border-radius: 2rem;
+    text-align: center;
+}
+#btn{  
+    color: #fff;  
+    background: #ff8400;  
+    width: 70px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 2px;  
+    margin-left: 40%;  
+}  
